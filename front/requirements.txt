@@ -1,0 +1,7 @@
+bootstrap
+moment
+react-bootstrap-buttons
+react-parallax
+react-redux
+react-router-dom
+reactstrap
